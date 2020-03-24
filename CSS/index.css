@@ -1,0 +1,36 @@
+@import "about.css";
+@import "body.css";
+@import "./contact.css";
+@import "footer.css";
+@import "header.css";
+@import "navbar.css";
+@import "projects.css";
+
+/* body{
+    background-color: lightblue;
+} */
+
+
+.gamil{
+    background-image: url(C:\Users\Alison\Desktop\Classwork\challenges\portfolio\assets\Gmail_Icon.png);
+}
+
+
+a:link {
+    text-decoration: none !important;
+    text-decoration-style: solid;
+}
+  
+a:visited {
+    text-decoration: none;
+  }
+  
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+    
+  }
+  
+a:active {
+    text-decoration: none;
+  }
