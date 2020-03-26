@@ -1,3 +1,40 @@
 body{
-    background-color: red;
+    background-color: silver
+}
+
+.gmail{
+    background-color: thistle;
+    height: 350px;
+    width: 350px;
+    float: right;
+    margin-top: 50px;
+}
+
+.wholeContact{
+    float: right;
+    margin-right: 15px;
+}
+
+.scrollbox{
+    overflow: scroll;
+    border: slateblue;
+    background-color: yellow;
+    height: 350px;
+    width: 350px;
+    float: left;
+    margin-left: 15px;
+
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    float: left;
+
+}
+
+.info{
+    float: left;
+    clear: right;
+    text-align: center;
 }
